@@ -1,0 +1,8 @@
+version: '2'
+
+services:
+  murdock.api:
+    image: murdock.api
+    build:
+      context: ./Murdock.api
+      dockerfile: Dockerfile
