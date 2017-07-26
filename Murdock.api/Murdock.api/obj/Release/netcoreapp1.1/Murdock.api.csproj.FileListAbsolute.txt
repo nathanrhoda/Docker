@@ -1,0 +1,9 @@
+H:\ws\Dock\Murdock.api\Murdock.api\bin\Release\netcoreapp1.1\Murdock.api.deps.json
+H:\ws\Dock\Murdock.api\Murdock.api\bin\Release\netcoreapp1.1\Murdock.api.runtimeconfig.json
+H:\ws\Dock\Murdock.api\Murdock.api\bin\Release\netcoreapp1.1\Murdock.api.runtimeconfig.dev.json
+H:\ws\Dock\Murdock.api\Murdock.api\bin\Release\netcoreapp1.1\Murdock.api.dll
+H:\ws\Dock\Murdock.api\Murdock.api\bin\Release\netcoreapp1.1\Murdock.api.pdb
+H:\ws\Dock\Murdock.api\Murdock.api\obj\Release\netcoreapp1.1\Murdock.api.csprojResolveAssemblyReference.cache
+H:\ws\Dock\Murdock.api\Murdock.api\obj\Release\netcoreapp1.1\Murdock.api.AssemblyInfo.cs
+H:\ws\Dock\Murdock.api\Murdock.api\obj\Release\netcoreapp1.1\Murdock.api.dll
+H:\ws\Dock\Murdock.api\Murdock.api\obj\Release\netcoreapp1.1\Murdock.api.pdb
