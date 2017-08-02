@@ -1,11 +1,8 @@
 FROM microsoft/aspnetcore-build
 ARG source
 WORKDIR /app
-EXPOSE 80
-COPY ${source:-obj/Docker/publish} .
 
-RUN ["dotnet", "restore"]
-RUN ["dotnet", "build"]
+COPY ${source:-obj/Docker/publish} .
 
 ENV ASPNETCORE_URLS http://*:5000
 
