@@ -1,12 +1,10 @@
 FROM microsoft/dotnet
 WORKDIR /app
 
-COPY ./Murdock.api .
+COPY ./Murdock.api/Publish .
 
 ENV ASPNETCORE_URLS http://+:80
 
 EXPOSE 80
-
-RUN dotnet restore
 
 ENTRYPOINT ["dotnet", "run"] 

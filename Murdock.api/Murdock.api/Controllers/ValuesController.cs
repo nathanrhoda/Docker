@@ -13,7 +13,7 @@ namespace Murdock.api.Controllers
         [HttpGet]
         public IEnumerable<string> Get()
         {
-            return new string[] { "Tupac", "Shakur" };
+            return new string[] { "Bruce", "Lee" };
         }
 
         // GET api/values/5
