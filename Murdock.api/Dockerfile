@@ -1,4 +1,4 @@
-FROM microsoft/dotnet 
+FROM microsoft/aspnetcore 
 WORKDIR /app
 
 COPY ./Murdock.api/Publish .
